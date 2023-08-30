@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* 🌱 Hello! My name is Michael Antunes. I am an Honors student in Electrical Engineering
+* ⚡ I have experience in C++, Python, and JavaScript, and I am enthusiastic about delving into the world of Machine Learning and exploring the profound impact its solutions can have.
+* 🔭 My insatiable passion for acquiring new skills drives me to tackle complex challenges head-on. I am constantly seeking opportunities to expand my knowledge and expertise.
+* 🌟 I am actively seeking job opportunities in the fields of Software Engineering and Machine Learning. I warmly welcome any inquiries or connections from interested parties.
+* 📫 Email : michaelantunes77@gmail.com
+
 <!--
 **michael092749/michael092749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
