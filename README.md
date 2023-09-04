@@ -1,4 +1,4 @@
-### Hi there 👋
+  ### Hi there 👋
 
 * 🌱 Hello! My name is Michael Antunes. I am an Honors student in Electrical Engineering
 * ⚡ I have experience in C++, Python, and JavaScript, and I am enthusiastic about delving into the world of Machine Learning and exploring the profound impact its solutions can have.
