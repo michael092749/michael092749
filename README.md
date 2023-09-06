@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A Software Engineer and Aspiring Machine Learning Engineer</h3>
 
-<div style="text-align: center;">
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelantunes77@gmail.com)](mailto:michaelantunes77@gmail.com)
-</div>
+<
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelantunes77@gmail.com)](mailto:michaelantunes77@gmail.com)
 
 ## About Me
 
