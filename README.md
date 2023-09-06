@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A Software Engineer and Aspiring Machine Learning Engineer</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelantunes77@gmail.com)](mailto:michaelantunes77@gmail.com)
+<div style="text-align: center;">
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelantunes77@gmail.com)](mailto:michaelantunes77@gmail.com)
+</div>
 
 ## About Me
 
@@ -37,14 +39,13 @@
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4" align="left" alt="git" height='42px'/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" align="left" alt="git" height='42px'/> </a>
-<a href ="" target="_blank"> <img src="https://github.com/michael092749/michael092749/blob/master/numpy.png" align="left" alt="git" height='42px' /> </a>
+
+<a href ="" target="_blank"> <img src="numpy.png" align="left" alt="git" height='42px' /> </a>
 
 <!-- <code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code> -->
 
