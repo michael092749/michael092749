@@ -15,7 +15,6 @@
 - 🔭 My insatiable passion for acquiring new skills drives me to tackle complex challenges head-on. I am constantly seeking opportunities to expand my knowledge and expertise.
 - 🛠 I love to explore new technologies and leverage them to solve real-life problems
 - 🌟 I am actively seeking job opportunities in the fields of Software Engineering and Machine Learning.
-- 📫 Email : michaelantunes77@gmail.com
 
 ## 💬 Ask me about
 
@@ -75,9 +74,6 @@
 </a>
 <a href="https://reactjs.org/" target="_blank">
   <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
-</a>
-<a href="https://www.selenium.dev/" target="_blank">
-  <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
 </a>
 
 <!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a> -->
