@@ -3,9 +3,9 @@
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelantunes77@gmail.com)](mailto:michaelantunes77@gmail.com) -->
 <p align="center">
-  <a href="mailto:michaelantunes77@gmail.com">
-    [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelantunes77@gmail.com)]
-  </a>
+    <a href="mailto:michaelantunes77@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaelantunes77@gmail.com" alt="Gmail Badge">
+    </a>
 </p>
 
 ## About Me
@@ -77,7 +77,7 @@
   <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg">
 </a>
 <a href="https://www.selenium.dev/" target="_blank">
-  <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/selenium/selenium-original.svg">
+  <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
 </a>
 
 <!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a> -->
