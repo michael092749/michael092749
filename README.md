@@ -26,7 +26,7 @@
 ## 📅 Hobbies
 
 - Playing tennis
-- Exploring new tech stacks and building cool stuffs.
+- Exploring new tech stacks and building cool stuff.
 - Crypto Trading
 
 ## 📚 Learning
