@@ -12,7 +12,7 @@
 
 - 🌱 My name is Michael. I am an Honors student in Electrical Engineering
 - ⚡ I have experience with C++, Python, and JavaScript, and I am enthusiastic about delving into the world of Machine Learning and exploring the profound impact its solutions can have.
-- 🔭 My insatiable passion for acquiring new skills drives me to tackle complex challenges head-on. I am constantly seeking opportunities to expand my knowledge and expertise.
+- 🔭 My passion for acquiring new skills drives me to tackle complex challenges head-on. I am constantly seeking opportunities to expand my knowledge and expertise.
 - 🛠 I love to explore new technologies and leverage them to solve real-life problems
 - 🌟 I am actively seeking job opportunities in the fields of Software Engineering and Machine Learning.
 
